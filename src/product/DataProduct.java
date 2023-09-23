@@ -176,6 +176,7 @@ public class DataProduct {
         for (Product a : pr) {
             System.out.println(a);
         }
+        System.out.println("There are " + pr.size() + " product.");
         System.out.println("================================================================================================================");
     }
 
